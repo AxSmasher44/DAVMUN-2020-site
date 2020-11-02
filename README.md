@@ -1,2 +1,3 @@
 # DAVMUN-2020-website
-davmun 2020 website repo
+Website built for DAVMUN'20, sec-14, ggn
+url: http://davmungurgaon.org/
